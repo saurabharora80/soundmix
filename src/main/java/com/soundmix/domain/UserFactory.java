@@ -1,4 +1,4 @@
-package domain;
+package com.soundmix.domain;
 
 import java.util.HashMap;
 import java.util.Map;
