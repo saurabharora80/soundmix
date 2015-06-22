@@ -1,3 +1,6 @@
 *.i*
 /.gradle
 atlassian-ide-plugin.xml
+/out
+/build
+
